@@ -3,7 +3,7 @@
 ## Software
 ### Add the following code to config.txt:
 ```
-#Set GPIO pins to 24-Bit DPI Mode
+#Set GPIO pins to 24-Bit DPI Mode 7
 gpio=0-1=a2,np
 gpio=4-27=a2,np
 #Set remaining GPIO pins to I2C Mode
